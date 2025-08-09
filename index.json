@@ -7,7 +7,7 @@
             {
                 "Hash": "5a54208fe8e24e87",
                 "Version": "0.463.0.417004",
-                "Timestamp": 1611610476,
+                "Timestamp": "2021-01-25T21:34:36.000Z",
                 "Files": [
                     {
                         "Url": "https://archive.org/download/funarchive/RobloxClient/0.463.0.417004.exe",
@@ -20,7 +20,7 @@
             {
                 "Hash": "07b64feec0bd47c1",
                 "Version": "0.463.0.417004",
-                "Timestamp": 1611277753,
+                "Timestamp": "2021-01-22T01:09:13.000Z",
                 "Files": [
                     "https://archive.org/download/rbxcdnRCC/version-07b64feec0bd47c1.zip"
                 ]
@@ -28,7 +28,7 @@
             {
                 "Hash": "2819f76e03ec4e1d",
                 "Version": "0.458.0.415023",
-                "Timestamp": 1605880855,
+                "Timestamp": "2020-11-20T14:00:55.000Z",
                 "Files": [
                     "https://archive.org/download/rbxcdnRCC/version-2819f76e03ec4e1d.zip"
                 ]
@@ -36,7 +36,7 @@
             {
                 "Hash": "1163b7718c8d4d9b",
                 "Version": "0.449.0.411458",
-                "Timestamp": 1600380988,
+                "Timestamp": "2020-09-17T22:16:28.000Z",
                 "Files": [
                     "https://web.archive.org/web/20241123102851/https://setup.rbxcdn.com/version-1163b7718c8d4d9b-RCC-contentXGTFDE2U040VW06D.zip",
                     "https://web.archive.org/web/20241123102924/https://setup.rbxcdn.com/version-1163b7718c8d4d9b-RCC-extracontentXGTFDE2U040VW06D.zip",
@@ -51,7 +51,7 @@
             {
                 "Hash": "20ceedbf82fe436d",
                 "Version": "0.448.0.411244",
-                "Timestamp": 1600115585,
+                "Timestamp": "2020-09-14T20:33:05.000Z",
                 "Files": [
                     "https://archive.org/download/rbxcdnRCC/version-20ceedbf82fe436d.zip"
                 ]
@@ -59,7 +59,7 @@
             {
                 "Hash": "20c74d621c01491d",
                 "Version": "0.447.1.411042",
-                "Timestamp": 1599599122,
+                "Timestamp": "2020-09-08T21:05:22.000Z",
                 "Files": [
                     "https://archive.org/download/rbxcdnRCC/version-20c74d621c01491d.zip"
                 ]
@@ -67,7 +67,7 @@
             {
                 "Hash": "2db14fc5c01c4dd9",
                 "Version": "0.441.0.408614",
-                "Timestamp": 1594937478,
+                "Timestamp": "2020-07-16T22:11:18.000Z",
                 "Files": [
                     "https://archive.org/download/rbxcdnRCC/version-2db14fc5c01c4dd9.zip"
                 ]
@@ -75,7 +75,7 @@
             {
                 "Hash": "07204248102a4a09",
                 "Version": "0.438.0.407270",
-                "Timestamp": 1592603504,
+                "Timestamp": "2020-06-19T21:51:44.000Z",
                 "Files": [
                     "https://web.archive.org/web/20241122200823/https://setup.rbxcdn.com/version-07204248102a4a09-RCC-contentXGTFDE2U040VW06D.zip",
                     "https://web.archive.org/web/20241122200911/https://setup.rbxcdn.com/version-07204248102a4a09-RCC-extracontentXGTFDE2U040VW06D.zip",
@@ -92,7 +92,7 @@
             {
                 "Hash": "c993d5e9c7224b14",
                 "Version": "0.463.0.417004",
-                "Timestamp": 1611278135,
+                "Timestamp": "2021-01-22T01:15:35.000Z",
                 "Files": [
                     {
                         "Url": "https://archive.org/download/funarchive/RobloxStudio/0.463.0.417004.exe",
