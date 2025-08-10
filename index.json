@@ -1,7 +1,6 @@
 {
-    "Meta": {
-        "Version": 1
-    },
+    "Version": 1,
+    "Message": "Disclaimer: All of the Roblox clients on this list are hosted by the Internet Archive and were submitted by random users on the Internet that have no affiliation with noobWarrior. We have checked all signatures on the executables to see if they have been tampered with, and they were not.",
     "Roblox": {
         "Client": [
             {
